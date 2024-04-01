@@ -1,0 +1,94 @@
+body{
+    background:  black;
+
+}
+
+.lol{
+    width:  330px;
+    height: 330px;
+    border: 2px solid rgb(178, 255, 168);
+    position: relative;
+    top: 0;
+    bottom:  0;
+    left: 0;
+    right:  0   ;
+    margin:  auto;
+    border-radius: 50%;
+
+}
+.sec{
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(189, 205, 208);
+    position: absolute;
+    margin:  auto;
+    top: 50%; /* Vertically centered */
+    transform: translate(-50%, -50%);
+    left: 50%; /* Horizontally centered */
+    border-radius: 50%;
+}
+.circle{
+    width:  30px;
+    height:  30px;
+    background: rgb(0, 255, 250);
+
+    border-radius:  50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow:  hidden;
+    margin: auto;
+    -webkit-animation: circle 5s linear infinite;
+    animation: circle 5s linear infinite;
+
+}
+.circle-1{
+    width:  20px;
+    height:  20px;
+    background: rgb(208, 226, 136);
+    border-radius:  50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow:  hidden;
+    margin: auto;
+    -webkit-animation: circle 5s linear infinite;
+    animation: countercircle 5s linear infinite;
+
+}
+@-webkit-keyframes circle{
+    0%{
+        transform:  rotate(0deg)translate(-100px)rotate(0deg);
+
+    }
+    100%{
+        transform: rotate(360deg)translate(-100px)rotate(-360deg);
+
+    }
+}
+
+@keyframes circle {
+    
+    0%{
+        transform: rotate(0deg)translate(-100px)rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg)translate(-100px)rotate(-360deg);
+    }
+    
+}
+@keyframes countercircle {
+    
+    0%{
+        transform: rotate(0deg)translate(-165px)rotate(0deg);
+    }
+    100%{
+        transform: rotate(-360deg)translate(-165px)rotate(-360deg);
+    }
+    
+}
+

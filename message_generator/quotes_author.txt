@@ -1,0 +1,3522 @@
+  Mario Andretti
+  >Michael
+ 0Ignatieff
+  >Jared
+ 1Padalecki
+ 2>Aaron Schock
+  >Robert Falcon
+ 3Scott
+ 4>Donna Brazile
+ 5>Olly Murs
+  >Jimmy Carl
+ 6Black
+  >John
+ 7Poindexter
+  >Saint
+ 8Augustine
+ 9>Regina Brett
+  >Ryan
+10Bethencourt
+  >Carol W.
+11Greider
+12>Helmut Jahn
+13>Naveen Jain
+14>Alana Stewart
+  >Antonio
+15Porchia
+  >Ethel
+16Barrymore
+17>Ron White
+  >George
+18Bernard Shaw
+19>Wayne Dyer
+20>Aristotle
+  >Fabrizio
+21Moreira
+22>Dan Buettner
+  >Stephen
+23Gardiner
+  >James
+24Madison
+25>Edmund Burke
+26>Colin R. Davis
+27>Emil Ludwig
+28>Jim Harrison
+29>Tracey Emin
+30>John Rampton
+31>Regis Philbin
+32>Judy Collins
+  >William Samuel
+33Johnson
+34>Billy Ray Cyrus
+35>Bradley Chicho
+36>Karlie Kloss
+37>Brock Osweiler
+  >Montel
+38Williams
+39>Katy Perry
+40>Andrew Cuomo
+41>Kyle Chandler
+  >George
+42Bernard Shaw
+  >Frank Lloyd
+43Wright
+44>Tom Watson
+45>Marla Gibbs
+  >Nicole Ari
+46Parker
+  >Emily
+47Dickinson
+48>Barack Obama
+49>Janet Fitch
+50>Andrew Mason
+51>Sienna Miller
+52>Les Brown
+ 53>John Wooden
+ 54>Henry Adams
+ 55>Guy Laliberte
+ 56>Britney Spears
+   >David
+ 57Hasselhoff
+   >Bidzina
+ 58Ivanishvili
+ 59>Mike Gallagher
+ 60>E. F. Benson
+ 61>Xenophon
+   >Bruce
+ 62Springsteen
+   >Sebastian
+ 63Thrun
+ 64>Ben Bernanke
+   >Malcolm
+ 65Turnbull
+ 66>Havelock Ellis
+ 67>Zig Ziglar
+ 68>Paul Auster
+   >Michele
+ 69Bachmann
+ 70>Tim Tebow
+ 71>David Hume
+ 72>Shakira
+ 73>Thomas Moore
+ 74>Yoko Ono
+ 75>William Hazlitt
+   >Howard
+ 76Nemerov
+ 77>John Salley
+ 78>John Keats
+ 79>Jerry West
+   >Joseph Smith,
+ 80Jr.
+ 81>George Burns
+ 82>Julia Stiles
+   >Jonathan
+ 83Safran Foer
+ 84>Octavio Paz
+   >Robert H.
+ 85Schuller
+   >Anthony
+ 86Bourdain
+ 87>Petrarch
+   >Evangeline
+ 88Lilly
+ 89>Amy Purdy
+   >Afrika
+ 90Bambaataa
+ 91>Colin Hay
+   >George
+ 92Bernard Shaw
+   >Jonathan
+ 93Brandis
+ 94>Barbara Bush
+ 95>Joel Osteen
+ 96>John Irving
+ 97>Blake Shelton
+ 98>Trent Reznor
+   >Thomas
+ 99Carlyle
+   >Oliver Wendell
+100Holmes, Sr.
+   >Sarah
+101McLachlan
+102>Lee Iacocca
+103>Tyler Perry
+104>Woody Hayes
+105>Mandy Moore
+106>Felix Dennis
+107>John Gay
+108>Richard Bach
+
+   >Henry David
+109Thoreau
+   >Stefanie
+110Powers
+111>Trish Stratus
+   >Marjane
+112Satrapi
+   >Gary
+113Vaynerchuk
+114>Pearl Bailey
+115>Jane Harrison
+   >Nan
+116Fairbrother
+117>Joanna Lumley
+   >Woodrow
+118Wilson
+119>Harvey Mackay
+120>Barbara Fialho
+121>Peter Benchley
+122>Anton du Beke
+   >Jean de La
+123Fontaine
+   >Eric
+124Schneiderman
+   >Margaret
+125Thatcher
+   >Eliezer
+126Yudkowsky
+   >Evangeline
+127Lilly
+128>Alton Brown
+129>Naveen Jain
+130>Loretta Lynn
+131>Ted Turner
+132>Albert Einstein
+133>Kinky Friedman
+134>Kanye West
+135>John McCarthy
+136>Salma Hayek
+   >Stephanie
+137Klein
+138>Charles de Lint
+139>Epicurus
+140>Gloria Steinem
+141>Neil Peart
+   >James F.
+142Byrnes
+143>Susan Orlean
+   >Lucy Maud
+144Montgomery
+   >Finley Peter
+145Dunne
+   >Muhammad Ali
+146Jinnah
+147>Euripides
+148>Wilson Mizner
+149>Carl Sagan
+150>Lady Gaga
+   >Walter
+151Lippmann
+   >Apollonius of
+152Tyana
+153>Kate Moss
+154>Bob Feller
+   >Giada De
+155Laurentiis
+   >Aleksander
+156Kwasniewski
+157>Henry Selick
+158>Oscar Wilde
+159>Isaac D'Israeli
+160>Andy Murray
+161>William Hague
+162>Louise L. Hay
+   >Walter
+163Winchell
+   >Melina
+164Kanakaredes
+165>Dean Ornish
+166>Monte Irvin
+   >Mickalene
+167Thomas
+168>Dong Dong
+   >Jose Ortega y
+169Gasset
+170>Christina Milian
+171>Dave Barry
+172>Alfred Austin
+173>George Packer
+174>Henry Rollins
+175>Marvin Ammori
+   >Marcus Tullius
+176Cicero
+   >Percy Bysshe
+177Shelley
+178>Joyce Banda
+   >Bruce
+179Dickinson
+180>Arthur Ashe
+   >Suzanne
+181Brockmann
+   >Nelson
+182Mandela
+   >James
+183Heckman
+   >G. Willow
+184Wilson
+185>Billie Jean King
+186>Bill Watterson
+   >Jean-Jacques
+187Rousseau
+   >William
+188Shakespeare
+189>Daniel Inouye
+190>Saint Ignatius
+191>River Phoenix
+192>Alec Baldwin
+193>Tyler Florence
+   >Amitabh
+194Bachchan
+195>Cherie Lunghi
+196>Dave Matthews
+197>Joanna Krupa
+   >Howard
+198Gardner
+199>Yair Lapid
+   >Sebastian
+200Thrun
+   >Walter
+201Lippmann
+202>Yves Chauvin
+203>Alan Alda
+204>Joan Rivers
+   >Anthony
+205Bourdain
+   >Sandra Tsing
+206Loh
+207>Peter Ustinov
+   >Timothy
+208Geithner
+209>Tecumseh
+210>Olivia Williams
+211>Kin Hubbard
+   >Robert Baden-
+212Powell
+   >Henry David
+213Thoreau
+   >Martin
+214Henderson
+
+   >Pope John
+215Paul II
+216>Mickey Hart
+217>Mike Birbiglia
+218>Napoleon Hill
+   >Elizabeth
+219Olsen
+220>Robert Blair
+221>Pablo Neruda
+222>Jay Griffiths
+223>Walter Scott
+   >Giada De
+224Laurentiis
+225>Celine Dion
+226>David Gest
+227>Donald Trump
+   >Nikos
+228Kazantzakis
+229>Shinzo Abe
+   >Thomas S.
+230Monson
+231>Martha Beck
+232>Jerry Lewis
+233>Laura Harring
+234>John Caudwell
+   >Harvey S.
+235Firestone
+236>Dale Carnegie
+237>Slavoj Zizek
+   >Vincent
+238Bugliosi
+   >Henry David
+239Thoreau
+   >Ben
+240Roethlisberger
+241>Adam Smith
+242>Laura Wasser
+243>Anais Nin
+244>John Glenn
+245>Charles Darwin
+246>Rumi
+247>Tyler Perry
+   >Winnie
+248Holzman
+249>Vitruvius
+   >Kevin
+250DeYoung
+251>Aesop
+252>Ray Kroc
+253>Elon Musk
+254>Erma Bombeck
+255>St. Jerome
+256>John Wooden
+257>Paul Theroux
+258>Pauline Phillips
+259>Diane English
+260>Bill Watterson
+261>Carnie Wilson
+262>Frank A. Clark
+263>John Muir
+264>Confucius
+265>Zac Brown
+266>Coco Chanel
+   >Bryant H.
+267McGill
+   >Lyndon B.
+268Johnson
+269>Suze Orman
+   >Vincent Van
+270Gogh
+271>Edmund Hillary
+272>Joshua Sasse
+273>Joel Edgerton
+
+274>Simon Cowell
+275>Brett Ratner
+   >Bidzina
+276Ivanishvili
+277>Robert Kraft
+   >Deborah
+278Tannen
+279>Lil Wayne
+280>Sam Ewing
+281>Guy Fieri
+   >Woodrow
+282Wilson
+283>Mauricio Macri
+284>Steve Jobs
+285>Mindy Kaling
+   >John
+286Burroughs
+287>Godfrey Winn
+288>Stendhal
+289>Julia Roberts
+   >Charles
+290Kettering
+   >Simone de
+291Beauvoir
+292>Tommy Lee
+293>Voltaire
+294>Saint Basil
+295>James Comey
+296>Zendaya
+297>Penn Jillette
+298>Kate Winslet
+299>Ethan Allen
+   >Marilyn vos
+300Savant
+301>Euripides
+302>Jamie Oliver
+303>Louis C. K.
+304>Vivek Wadhwa
+   >Ralph Waldo
+305Emerson
+306>Jane Austen
+   >Wendi Deng
+307Murdoch
+308>Rita Rudner
+309>Michael Pollan
+   >David
+310Duchovny
+311>Max Schmeling
+   >Dieter F.
+312Uchtdorf
+313>Estelle
+   >Martin
+314Lawrence
+315>Aldous Huxley
+   >Audrey
+316Hepburn
+317>Jean Paul
+318>Lucas Grabeel
+   >Alexander
+319Pope
+320>Virat Kohli
+   >Michelle
+321Obama
+322>Tionne Watkins
+   >Giada De
+323Laurentiis
+324>Henry Petroski
+   >Nelson
+325Goodman
+326>Truman Capote
+327>Nicolas Roeg
+   >John Forbes
+328Nash, Jr.
+329>Paula Deen
+   >J. Robert
+330Oppenheimer
+331>Michael Korda
+   >Rainer Maria
+332Rilke
+333>Young Jeezy
+   >Rakul Preet
+334Singh
+   >Rabindranath
+335Tagore
+   >George A.
+336Romero
+   >Robert Baden-
+337Powell
+338>Avril Lavigne
+   >Kate
+339Christensen
+   >Arthur
+340Rubinstein
+   >Galina
+341Vishnevskaya
+   >Nassim
+342Nicholas Taleb
+343>Margaret Cho
+   >Jean-Georges
+344Vongerichten
+345>Zsa Zsa Gabor
+346>Anna Kendrick
+   >Michael
+347Specter
+   >Benjamin
+348Disraeli
+349>John Cusack
+350>Dhanush
+351>Ella Maillart
+352>Woody Allen
+353>John Wooden
+   >Johann
+   Wolfgang von
+354Goethe
+355>Sarah Kay
+   >David
+356Cameron
+357>Philip Sidney
+358>Thomas Moore
+359>Kid Rock
+   >Kenneth
+360Edmonds
+361>George Burns
+   >Philip
+   Stanhope, 4th
+   Earl of
+362Chesterfield
+363>Ameen Rihani
+364>Blake Lively
+   >Thomas
+365Jefferson
+366>Julie Burchill
+   >Clayton
+367Christensen
+   >Francois de La
+368Rochefoucauld
+   >Michael
+369Specter
+370>Rick Warren
+371>Henry Rollins
+   >Sheryl
+372Sandberg
+    >Arnold
+373Schwarzenegger
+    >George
+374Michael
+375>Janet Yellen
+376>Randy West
+    >Jason
+    Calacanis
+377
+378>Barack Obama
+379>Lloyd Bentsen
+380>Isla Fisher
+381>Jules Renard
+382>Gabriel Marcel
+383>Willie Nelson
+384>Danny Thomas
+385>Alice Waters
+    >David
+386Attenborough
+    >Thomas
+387Merton
+    >Harry Connick,
+388Jr.
+    >Andrew
+389Greeley
+390>Jean Piaget
+391>Kate Forsyth
+    >Charles J.
+392Givens
+393>Jay Duplass
+394>Henri Nouwen
+    >James G.
+395Stavridis
+396>Behati Prinsloo
+    >Thomas A.
+397Edison
+    >Travis
+398Bradberry
+    >Kareena
+399Kapoor Khan
+    >Marcus
+400Aurelius
+401>Russel Honore
+402>Euripides
+403>Keanu Reeves
+    >Theodore
+404Hesburgh
+405>Albert Bandura
+406>Artur Davis
+    >Mike
+407Krzyzewski
+408>Red Skelton
+409>Marc Rich
+    >Jean de La
+410Fontaine
+411>St. Vincent
+    >Norman
+412Borlaug
+    >W. Clement
+413Stone
+414>Shalom Harlow
+415>Trey Anastasio
+416>Carrot Top
+417>Nicholas Stern
+418>Sharon Stone
+    >Rabindranath
+419Tagore
+420>LeAnn Rimes
+421>Helen Mirren
+    >Heather
+422Bresch
+423>Ariana Grande
+424>Allan Bloom
+   >Mikhail
+425Gorbachev
+426>Brett Hoebel
+   >Kurt
+427Eichenwald
+   >Joseph Wood
+428Krutch
+   >David
+429Attenborough
+430>Shakira
+431>Maya Angelou
+   >John D.
+432Rockefeller
+   >Horace
+433Walpole
+   >Steven
+434Sinofsky
+   >Joyce Carol
+435Oates
+436>Pat Summitt
+437>Bill Owens
+438>Alan Kay
+439>James Thurber
+440>Isaac Asimov
+441>Gail Collins
+   >David Starr
+442Jordan
+443>Mia Kirshner
+444>Sharon Stone
+445>Saint Basil
+   >Lucius
+   Annaeus
+446Seneca
+   >James
+447Cameron
+448>Satya Nadella
+449>Cyril Connolly
+   >Benjamin
+450Disraeli
+   >Anthony J.
+451D'Angelo
+452>Sophocles
+   >Herman
+453Melville
+454>Max Lucado
+455>Paul Ryan
+   >Alfred Lord
+456Tennyson
+457>Saint Basil
+   >Juliette
+458Binoche
+   >Steve
+459Jurvetson
+   >Suzanne
+460Somers
+461>Laila Ali
+462>Oksana Baiul
+463>Mario Puzo
+464>Euripides
+   >Stephen Jay
+465Gould
+466>Rebecca West
+   >Eddie
+467Rickenbacker
+468>Beth Ditto
+   >Kate
+469Christensen
+   >Richard
+470Dawkins
+   >Elizabeth
+471Barrett Browning
+472>Julia Child
+473>Ranbir Kapoor
+   >Joseph B.
+474Wirthlin
+475>Joe Biden
+   >Bertrand
+476Russell
+477>Cass Sunstein
+   >Aleister
+478Crowley
+479>Samuel Ullman
+480>Joyce Meyer
+481>Mary Kay Ash
+482>Julius Caesar
+   >F. Scott
+483Fitzgerald
+484>Spike Jonze
+485>Helen Fielding
+   >Debbie
+486Stabenow
+487>Ian Mckellen
+   >Walter
+488Anderson
+   >John Kenneth
+489Galbraith
+   >Gustave
+490Flaubert
+491>Isabel Allende
+492>Allen Klein
+493>Amy Poehler
+494>Bill Cosby
+495>Jake Arrieta
+496>Marisa Miller
+497>Tyler Florence
+498>Mitt Romney
+499>Joel Robuchon
+500>Gary Johnson
+501>Ramez Naam
+502>Albert Camus
+   >Donald Trump,
+503Jr.
+504>Scott Adams
+   >Frank Lloyd
+505Wright
+506>Ellen Glasgow
+   >Arnold H.
+507Glasow
+   >Ezra Taft
+508Benson
+   >Emily
+509Dickinson
+510>Josh Billings
+   >Abraham
+511Lincoln
+512>Lucy Larcom
+513>Tom Peters
+514>Seneca
+   >Orison Swett
+515Marden
+516>Tony Robbins
+517>Lynn Davies
+518>George Takei
+   >Martin Luther
+519King, Jr.
+520>Billy Graham
+   >Samuel Taylor
+521Coleridge
+522>Josh Billings
+523>Peter De Vries
+524>Daria Werbowy
+525>Napoleon Hill
+   >George
+   Washington
+526Carver
+   >Amy
+527Winehouse
+528>Socrates
+529>Tim McGraw
+530>P. J. O'Rourke
+531>Mike Gallagher
+532>Alison Brie
+533>Dolly Parton
+   >Marcus
+534Aurelius
+535>John Carpenter
+536>Keith Urban
+537>Paul J. Meyer
+538>Edmund White
+539>Sam Keen
+   >Christie
+540Brinkley
+541>Edsger Dijkstra
+   >Arthur Quiller-
+542Couch
+   >Alphonse de
+543Lamartine
+   >Anthony
+544Bourdain
+   >Douglas
+545Coupland
+546>Christina Milian
+547>Alain de Botton
+548>Faith Hill
+549>Ben Carson
+550>David Gest
+551>Joel Osteen
+552>Bret Michaels
+553>Sonia Johnson
+554>Dan Gilbert
+555>Mencius
+556>Johnny Weir
+   >Oliver Wendell
+557Holmes, Sr.
+558>Sonam Kapoor
+559>Al Goldstein
+560>Jim Rohn
+   >Samuel
+561Richardson
+562>Debi Mazar
+563>Thomas Mann
+564>Mario Puzo
+565>Shakti Gawain
+566>Akshay Kumar
+   >Henny
+567Youngman
+568>Kathy Freston
+569>Oprah Winfrey
+   >Thomas
+570Huxley
+571>Claire Tomalin
+572>Shakira
+   >Benjamin
+573Disraeli
+574>James Dobson
+   >Mother
+575Angelica
+576>Amy Tan
+   >Jessica
+577Lowndes
+578>Alain de Botton
+   >Madonna
+579Ciccone
+580>David Lynch
+581>Tzipi Livni
+   >Dieter F.
+582Uchtdorf
+583>Ezra Miller
+584>Nick Nolte
+   >Jean-Georges
+585Vongerichten
+586>Lionel Messi
+587>William James
+588>Sylvia Browne
+589>Ernst Mayr
+   >Jennifer Love
+590Hewitt
+591>Bradley Chicho
+592>Edgar Ramirez
+   >John Kenneth
+593Galbraith
+594>Joan D. Vinge
+595>E. B. White
+   >Thomas
+596Jefferson
+597>Taylor Swift
+598>Ernie Banks
+   >George
+599Hickenlooper
+   >Gwyneth
+600Paltrow
+601>Mary J. Blige
+602>Marcus Garvey
+603>Missy Franklin
+   >Edward
+604Thorndike
+   >Thomas Haden
+605Church
+   >Baltasar
+606Gracian
+607>Sonakshi Sinha
+608>Shane Smith
+609>William James
+610>Aesop
+611>Alex Kapranos
+   >Francois
+612Rabelais
+   >Ellen
+613DeGeneres
+   >Norman
+614Cousins
+615>Keke Palmer
+616>Mitch Hedberg
+617>Susan Glaspell
+618>Garrison Keillor
+619>Richard Bach
+620>Elbert Hubbard
+   >Martin
+621Freeman
+622>Junot Diaz
+623>Michael Franti
+   >Tyler, The
+624Creator
+625>Pope Francis
+626>Albert Einstein
+627>Dean Ornish
+628>Joyce Brothers
+   >Henry David
+629Thoreau
+630>Bill Rancic
+631>Yoko Ono
+632>Jon Favreau
+633>Hans Jonas
+   >Sam
+634Brownback
+635>William Petty
+636>Woody Allen
+637>Julia Glass
+   >Martin
+638Feldstein
+639>Daniel Tammet
+640>Warren Buffett
+    >Henry B.
+641Eyring
+642>Judy Garland
+643>Tim Harford
+644>Tyler Florence
+645>Hesiod
+    >Louis
+646Tomlinson
+    >Nicholas
+647Sparks
+648>Michael Caine
+649>Aisha Tyler
+    >Mark
+    Zuckerberg
+650
+651>James Gleick
+    >Winston
+652Churchill
+653>John Battelle
+    >Chelsea
+654Handler
+    >Martin
+655Seligman
+656>J. D. Vance
+657>Vernon Law
+658>Ray Lewis
+    >Nicholas D.
+659Kristof
+    >William
+660Feather
+    >Richard
+661Branson
+662>Brigitte Bardot
+    >Jane Velez-
+663Mitchell
+664>Tina Brown
+665>David Chang
+    >Honore de
+666Balzac
+    >Ambrose
+667Bierce
+668>Fan Bingbing
+669>Salma Hayek
+670>Ann Voskamp
+671>Zig Ziglar
+672>Herodotus
+673>Rashida Jones
+674>Jack Nicholson
+675>H. L. Mencken
+676>Khalil Gibran
+    >Marcus
+677Buckingham
+678>John Lennon
+679>E. O. Wilson
+    >Andrew J.
+680Bernstein
+    >W. Clement
+681Stone
+    >Ezra Taft
+682Benson
+683>Marcus Garvey
+684>George Takei
+685>Bebe Rexha
+    >Charles
+686Kingsley
+    >Vanessa
+687Carlton
+688>Bill Cosby
+689>Kevin Feige
+690>John Wooden
+    >Leonardo da
+691Vinci
+    >Charles
+692Stanley
+693>Cate Blanchett
+694>Adam Sandler
+695>Mickey Rooney
+   >Alfred Lord
+696Tennyson
+697>Jim Rohn
+   >Salman
+698Rushdie
+699>Rumi
+   >Jerry Jeff
+700Walker
+701>Plato
+   >Henry David
+702Thoreau
+703>Marla Gibbs
+   >Honore de
+704Balzac
+705>DJ Khaled
+706>Johnny Vegas
+707>J. Paul Getty
+708>Will Rogers
+   >Thomas A.
+709Edison
+   >George
+710Bernard Shaw
+   >Richard
+   Brinsley
+711Sheridan
+712>Shilpa Shetty
+713>Kylie Minogue
+714>Russell Baker
+715>H. L. Mencken
+   >Friedrich
+716Nietzsche
+   >Joshua
+717Oppenheimer
+718>Matt Haig
+   >James
+719Huneker
+720>Mike Yaconelli
+   >Jamie
+721Campbell Bower
+722>Judith Viorst
+723>Peter Marshall
+724>Graham Elliot
+725>H. G. Wells
+726>Alicia Keys
+   >John
+727Burroughs
+728>Marc Faber
+   >Dionne
+729Warwick
+730>Tommy Cooper
+   >James
+731Madison
+   >Marie de
+732France
+733>Khalil Gibran
+734>William Osler
+   >Anthony
+735Bourdain
+736>Debra Winger
+737>Nora Ephron
+   >Albert
+738Schweitzer
+   >Oliver
+739Goldsmith
+   >Arthur
+740Rimbaud
+741>Kevin Bacon
+742>Tony Robbins
+743>Jenny Lewis
+   >Maurice
+744Chevalier
+   >Romain
+745Grosjean
+   >Nathaniel
+746Hawthorne
+747>Iris Murdoch
+748>Henri Nouwen
+749>Bernie Mac
+750>Alice Hamilton
+   >Vincent
+751McNabb
+   >Gordon
+752Bethune
+   >Anthony
+753Bourdain
+   >Joely
+754Richardson
+755>Steve Harvey
+   >Robert
+756Patterson
+757>John Florio
+758>Ralph Marston
+   >Gordon B.
+759Hinckley
+760>Salma Hayek
+761>Euripides
+   >Ngozi Okonjo-
+762Iweala
+763>John Krasinski
+764>Napoleon Hill
+765>Ogden Nash
+766>Taylor Swift
+   >Karl A.
+767Menninger
+   >Swami
+768Sivananda
+769>Anne Wojcicki
+770>Donna Brazile
+   >Thornton
+771Wilder
+772>Stevie Wonder
+   >Donald
+773Johanson
+774>Shinzo Abe
+   >Donald Trump,
+775Jr.
+   >Victoria
+776Pendleton
+777>Tyga
+   >Benjamin
+778Franklin
+779>Isabel Allende
+780>Samuel Butler
+781>Susan Decker
+   >David H.
+782Murdock
+   >Jason
+783Calacanis
+784>Peter Benchley
+   >Kenneth
+785Branagh
+786>Hill Harper
+787>Hugh Grant
+   >Dominique
+788Dawes
+   >Noah
+789Baumbach
+790>Jean Ingelow
+   >W. Somerset
+791Maugham
+   >Robert J.
+792Sawyer
+   >William Eardley
+793IV
+794>Adam McKay
+   >Henry Ward
+795Beecher
+   >Florence
+796Nightingale
+797>Ram Dass
+   >Gordon B.
+798Hinckley
+799>Tim Tebow
+800>Shinichi Suzuki
+   >Friedrich
+801Nietzsche
+   >Heston
+802Blumenthal
+803>Evel Knievel
+804>Errol Flynn
+   >James A.
+805Baldwin
+   >BJ the Chicago
+806Kid
+807>Anton Chekhov
+   >Arthur C.
+808Danto
+809>Armaan Malik
+810>Sherrod Brown
+   >Marcus
+811Samuelsson
+812>Lawrence Welk
+813>Ray Comfort
+   >John F.
+814Kennedy
+815>P. J. O'Rourke
+   >Henry David
+816Thoreau
+817>Miuccia Prada
+818>Sandra Bullock
+   >Thomas
+819Jefferson
+820>Ray Bradbury
+   >Dwayne
+821Johnson
+822>Carl Honore
+   >Mary Wilson
+823Little
+   >Blair
+824Underwood
+825>John Ridley
+   >Carrie
+826Underwood
+   >Katharine Lee
+827Bates
+   >George S.
+828Patton
+829>Eric Idle
+830>Francis Bacon
+   >Amitabh
+831Bachchan
+832>Oscar Wilde
+   >Anthony
+833Bourdain
+   >Friedrich
+834Nietzsche
+835>Vivien Leigh
+   >Orson F.
+836Whitney
+837>J. R. Martinez
+   >Anthony
+838Bourdain
+   >Michael
+839Spence
+840>Mother Teresa
+   >Edwin
+841Markham
+   >Nathan
+842Myhrvold
+   >Marcus
+843Aurelius
+   >Henry Ward
+844Beecher
+845>Charles Atlas
+   >Alanis
+846Morissette
+   >Angela
+847Ahrendts
+   >Nicole
+848Scherzinger
+849>Bonnie Blair
+850>Kobe Bryant
+851>Andre Breton
+852>Jeb Bush
+853>Rick Santorum
+854>Aloe Blacc
+   >Saint Teresa of
+855Avila
+   >Catherine
+856Zeta-Jones
+   >Corazon
+857Aquino
+   >Norman
+858Borlaug
+859>Tom Vilsack
+   >Meir
+860Soloveichik
+   >Yann Arthus-
+861Bertrand
+   >Anthony
+862Bourdain
+863>Gertrude Stein
+   >Orison Swett
+864Marden
+865>Orhan Pamuk
+866>Trai Byers
+867>Colin Powell
+868>Tommy Hilfiger
+   >Ralph Waldo
+869Emerson
+   >Monica
+870Bellucci
+   >Miguel de
+871Cervantes
+   >Jason
+872Alexander
+873>Moliere
+874>Lisa Murkowski
+875>Sallust
+876>Johnny Carson
+   >Sammy Davis,
+877Jr.
+   >Kangana
+878Ranaut
+879>D. H. Lawrence
+880>William James
+881>Mike Trout
+   >H. Jackson
+882Brown, Jr.
+883>Donna Leon
+   >John C.
+884Maxwell
+885>David Ricardo
+886>Kurt Cobain
+887>Rhys Ifans
+888>Jon Bon Jovi
+889>Kelly McGillis
+890>Rodney Atkins
+891>Tony Campolo
+892>Jim Samuels
+893>Ingrid Bergman
+894>John Bercow
+895>Peter Guber
+896>John Ridley
+897>H. L. Mencken
+898>Oprah Winfrey
+899>Carlos Santana
+   >Wilhelm von
+900Humboldt
+   >Russell M.
+901Nelson
+   >S. Jay
+902Olshansky
+   >Swami
+903Vivekananda
+904>Margaret Cho
+905>Jesse Ball
+   >Robert H.
+906Schuller
+   >Arsene
+907Wenger
+
+908>Tom Araya
+   >Jacquelyn
+909Jablonski
+910>Charlie Sheen
+   >Ambrose
+911Bierce
+912>Kevin Costner
+913>Joseph Story
+914>Sherry Argov
+915>Edmund White
+916>Yoko Ono
+917>Woody Allen
+918>Marilu Henner
+   >Wislawa
+919Szymborska
+   >Mikhail
+920Bakunin
+921>Nora Ephron
+   >Henry B.
+922Eyring
+923>Richard Burton
+924>Dylan Lauren
+   >Iain Duncan
+925Smith
+   >Darell
+926Hammond
+927>Eliphas Levi
+928>Alan Cohen
+929>P. J. O'Rourke
+   >Joseph
+930Campbell
+931>Les Brown
+   >William
+932Wallace
+   >James
+933Cameron
+934>Myles Munroe
+935>George Sand
+936>Elias Canetti
+937>Shakira
+   >Domhnall
+938Gleeson
+   >Henry
+   Wadsworth
+939Longfellow
+940>Roger Ascham
+   >Katharine
+941Hepburn
+   >Jimmy
+942Connors
+943>Bob Dylan
+944>Jillian Michaels
+   >Scott
+945Derrickson
+946>Laura Bush
+   >Bruce Eric
+947Kaplan
+948>Jim Sturgess
+949>Michael Jordan
+950>Jesus Christ
+951>Brad Gilbert
+   >Dwayne
+952Johnson
+   >Abraham
+953Lincoln
+954>Jack Canfield
+   >Justin
+955Cartwright
+   >N. R. Narayana
+956Murthy
+   >Maurice
+957Maeterlinck
+958>Aziz Ansari
+   >Natalie
+959Portman
+960>Walt Disney
+961>Ian Thorpe
+962>Nicole Polizzi
+963>Yo-Yo Ma
+   >Herbie
+964Hancock
+   >Archibald
+965MacLeish
+   >Khloe
+966Kardashian
+   >Viggo
+967Mortensen
+968>Emma Stone
+969>Elbert Hubbard
+970>Flora Lewis
+971>Aeschylus
+   >Margaret
+972Thatcher
+973>Jillian Michaels
+974>Samuel Daniel
+975>J. Paul Getty
+   >Steven
+976Spielberg
+   >Adrian
+977Peterson
+978>Danny Meyer
+   >Anne Morrow
+979Lindbergh
+980>Mickey Gilley
+   >Howard
+981Rheingold
+982>Jane Austen
+983>J. Paul Getty
+984>Michael Dell
+985>Irving Berlin
+986>Victor Hugo
+   >John
+987Burroughs
+988>Thomas Moore
+   >Nikita
+989Khrushchev
+   >James
+990Patterson
+991>Joy Fielding
+   >Miranda
+992Cosgrove
+993>Peter Drucker
+   >George
+994MacDonald
+   >Ambrose
+995Bierce
+996>Elon Musk
+   >Samuel
+997Johnson
+ 998>Elliott Abrams
+ 999>Pankaj Mishra
+1000>Cyril Connolly
+1001>Yehuda Berg
+1002>Pawan Kalyan
+1003>Frank McCourt
+1004>Joanna Lumley
+1005>Rihanna
+    >Aleksandr
+1006Solzhenitsyn
+1007>Joan Rivers
+1008>Doris Lessing
+1009>Christina Milian
+    >Vincent Van
+1010Gogh
+    >Orison Swett
+1011Marden
+1012>Mike Gallagher
+1013>Pablo Picasso
+1014>Tim O'Brien
+1015>Ken Kesey
+    >Lee H.
+1016Hamilton
+1017>Paulo Coelho
+1018>Gail Simmons
+    >Meir
+1019Soloveichik
+1020>Jim Rohn
+1021>Bodhidharma
+1022>Ben Affleck
+1023>William James
+    >Joseph Wood
+1024Krutch
+1025>Publilius Syrus
+    >Sarah Ban
+1026Breathnach
+    >William J.
+1027Clinton
+1028>Confucius
+    >John Kenneth
+1029Galbraith
+1030>Voltaire
+    >Pope Benedict
+1031XVI
+1032>George Soros
+1033>Francis Bacon
+1034>Pierce Brosnan
+    >Gilbert K.
+1035Chesterton
+1036>Bob Newhart
+    >Christopher
+1037Meloni
+1038>Megan Abbott
+1039>John Dewey
+1040>Sydney Pollack
+    >Nadia
+1041Comaneci
+1042>Milan Kundera
+1043>Anupam Kher
+    >Russell
+1044Simmons
+    >Christopher
+1045Reeve
+1046>Helen Rowland
+1047>Andre Breton
+1048>Michael Gove
+    >Florence
+1049Scovel Shinn
+    >Charlotte
+1050Whitton
+1051>Frida Kahlo
+    >Alfred Lord
+1052Tennyson
+1053>Hugh Jackman
+1054>John Steinbeck
+    >Amanda
+1055Seyfried
+1056>Aaron Rodgers
+    >Ezra Taft
+1057Benson
+1058>Joel Osteen
+    >Oliver Wendell
+1059Holmes, Sr.
+1060>Isak Dinesen
+1061>Tracy Kidder
+1062>Denis Diderot
+1063>Noel Gallagher
+1064>Lewis Howes
+1065>Rose Kennedy
+    >Misty May-
+1066Treanor
+1067>Marvin Sapp
+1068>Homaro Cantu
+    >Arnold
+1069Schwarzenegger
+    >Thomas
+1070Huxley
+1071>Sophia Loren
+1072>Andrew Lo
+    >Leonard
+1073Mlodinow
+1074>Robert Jeffress
+    >Christina
+1075Aguilera
+    >Marcus
+1076Aurelius
+    >Domhnall
+1077Gleeson
+    >Charlotte
+1078Bronte
+    >Marilyn vos
+1079Savant
+1080>Walter Scott
+1081>Amelia Earhart
+1082>David Mamet
+    >Elizabeth
+1083Gilbert
+1084>Aisha Tyler
+1085>Joel Salatin
+1086>W. H. Auden
+1087>Shia LaBeouf
+    >Thomas A.
+1088Edison
+1089>Joe Namath
+1090>Al Goldstein
+1091>Mary Roach
+    >Diane von
+1092Furstenberg
+1093>Damon Albarn
+1094>Minna Antrim
+1095>Natalie Cole
+1096>Tarja Halonen
+1097>Simon Cowell
+1098>John Wooden
+1099>Sai Baba
+    >Leonardo da
+1100Vinci
+    >Sherri
+1101Shepherd
+1102>Neil Gorsuch
+1103>Gavin Newsom
+    >William
+1104Shakespeare
+    >Henri Frederic
+1105Amiel
+1106>Judith Martin
+1107>Tony Robbins
+1108>Pat Mitchell
+1109>Gloria Steinem
+    >Vincent Van
+1110Gogh
+    >Jean de la
+1111Bruyere
+    >George
+1112Santayana
+    >Ezra Taft
+1113Benson
+    >Benjamin
+1114Franklin
+1115>Said Nursi
+    >Robert
+1116Kiyosaki
+1117>George Lucas
+1118>Mel Brooks
+1119>John Updike
+    >Hubert H.
+1120Humphrey
+    >Abraham
+1121Maslow
+1122>NeNe Leakes
+1123>Margot Robbie
+1124>Wayne Dyer
+1125>Orson Pratt
+1126>Paul Walker
+1127>Sophocles
+1128>Satchel Paige
+1129>Gary Hamel
+1130>Oscar Wilde
+    >Antoine de
+1131Saint-Exupery
+1132>Meek Mill
+1133>P. J. O'Rourke
+1134>Alex Rodriguez
+1135>Janet Jackson
+1136>Taylor Lautner
+    >David
+1137Rockefeller
+1138>Laurie Colwin
+1139>Hamza Yusuf
+    >James M.
+1140Barrie
+    >Don Miguel
+1141Ruiz
+1142>Cass Sunstein
+1143>Hu Shih
+1144>Confucius
+1145>St. Jerome
+1146>Ugo Betti
+1147>Jose Ferreira
+    >Mariella
+1148Frostrup
+1149>Conor Oberst
+1150>Kirsten Dunst
+1151>Laurie Colwin
+1152>Julie Benz
+    >Henny
+1153Youngman
+1154>Matt Damon
+1155>Paul Stamets
+1156>Luanne Rice
+1157>Kevin O'Leary
+1158>Lactantius
+1159>Dave Blood
+    >Marcus Tullius
+1160Cicero
+    >Michael
+1161Douglas
+1162>Ameen Rihani
+1163>Gustav Klimt
+    >John W.
+1164Gardner
+    >Benjamin
+1165Franklin
+    >Alexander
+1166Payne
+    >Bertrand
+1167Russell
+    >Ta-Nehisi
+1168Coates
+1169>David D. Burns
+    >Henny
+1170Youngman
+1171>Shakira
+1172>Marge Piercy
+1173>Zsa Zsa Gabor
+1174>Tom Brady
+    >Candice
+1175Swanepoel
+1176>bell hooks
+1177>Sophia Loren
+1178>Harold Ramis
+    >Joseph
+1179Brodsky
+1180>Zac Goldsmith
+1181>Adam Levine
+    >Arthur
+1182Schopenhauer
+    >Martha
+1183Plimpton
+    >Amanda
+1184Donohoe
+1185>Tom Colicchio
+1186>Alain de Botton
+    >Benjamin
+1187Franklin
+1188>Walter Scott
+1189>Sting
+1190>Bill Cosby
+1191>Jim Elliot
+1192>David Mixner
+1193>Bill Bradley
+1194>Ryan Holiday
+    >Joaquin
+1195Phoenix
+    >Ambrose
+1196Bierce
+    >Norman
+1197Cousins
+1198>Wanda Sykes
+1199>Ben Stein
+    >Winston
+1200Churchill
+1201>Earl Wilson
+1202>Mary Lambert
+1203>P. J. O'Rourke
+    >Michael J.
+1204Saylor
+1205>Jim Carrey
+1206>Carl Jung
+1207>Spike Jonze
+    >George
+1208Canning
+1209>Triple H
+1210>Eric Ries
+1211>William Green
+    >Olivier
+1212Theyskens
+1213>Joyce Meyer
+1214>Akshay Kumar
+1215>Kevin Conroy
+1216>Henry Ford
+1217>Will Rogers
+1218>Timothy Noah
+1219>Al Sharpton
+1220>Josh Billings
+1221>Oprah Winfrey
+1222>Nargis Fakhri
+1223>Jules Renard
+1224>Samuel Smiles
+    >Stephen
+1225Hawking
+1226>Ron Perlman
+1227>Kristin Cavallari
+1228>Jim Rohn
+1229>Sydney Smith
+1230>David Hume
+1231>Robert Irvine
+1232>Paul Pierce
+    >N. R. Narayana
+1233Murthy
+    >Shah Rukh
+1234Khan
+1235>Anupam Kher
+1236>Dorothy Height
+    >Bethenny
+1237Frankel
+1238>Pam Brown
+    >Laurence J.
+1239Peter
+1240>Jim Hightower
+    >Eleanor
+1241Robson Belmont
+1242>Leo Tolstoy
+1243>Erma Bombeck
+    >Damon
+1244Wayans
+1245>Jeff Ross
+1246>Bono
+    >Graham
+1247Greene
+    >Recep Tayyip
+1248Erdogan
+1249>Alfred Marshall
+1250>Mark Burnett
+1251>Michael Pollan
+    >Graham
+1252Greene
+1253>Andre Maurois
+    >Steve
+1254Jurvetson
+1255>Helen Mirren
+1256>Robert Duvall
+1257>Jim Carrey
+1258>David Icke
+    >Sally
+1259Schneider
+1260>Buddha
+1261>Lisa Morton
+    >Bryce Dallas
+1262Howard
+1263>B. C. Forbes
+1264>Tony Dungy
+    >Henri Frederic
+1265Amiel
+1266>Tony Bennett
+    >Debbie
+1267Stabenow
+    >Frederick W.
+1268Smith
+1269>David Icke
+1270>Cherie Lunghi
+    >Joseph
+1271Campbell
+1272>James Whistler
+    >H. Jackson
+1273Brown, Jr.
+1274>Bill Watterson
+1275>Frankie Valli
+    >Vendela
+1276Kirsebom
+1277>Timothy Ferriss
+    >Charles
+1278Spurgeon
+1279>John Cheever
+1280>Kimbal Musk
+1281>Henry Paulson
+1282>Steven Pinker
+1283>E. W. Howe
+1284>Adam Gopnik
+    >John F.
+1285Kennedy
+    >Charles
+1286Dickens
+1287>Will Smith
+    >Harold Ford,
+1288Jr.
+1289>Vivek Wadhwa
+1290>Lady Gregory
+1291>Alison Gopnik
+1292>Arthur Miller
+1293>Bryan Batt
+1294>Khalil Gibran
+1295>Aristotle
+1296>Colin R. Davis
+    >Douglas
+1297Adams
+1298>Alice Miller
+1299>Mike Barnicle
+1300>Karin Slaughter
+    >Leonardo da
+1301Vinci
+    >Benjamin
+1302Franklin
+    >Martina
+1303Navratilova
+1304>Daphne Koller
+1305>Ben Shapiro
+1306>Victor Kiam
+1307>Lewis Howes
+1308>Tony McCoy
+1309>Rumi
+1310>Tim Roth
+1311>Groucho Marx
+1312>Henry Ford
+1313>Cary Grant
+1314>Kirk Douglas
+    >Charles J.
+1315Givens
+1316>Hans Rosling
+1317>Jean Chatzky
+1318>Pawan Kalyan
+1319>Bernie Siegel
+    >Elizabeth
+1320Berkley
+    >James A.
+1321Baldwin
+    >Ambrose
+1322Bierce
+    >Paul
+1323Prudhomme
+    >A. P. J. Abdul
+1324Kalam
+    >James Howard
+1325Kunstler
+    >James A.
+1326Michener
+1327>Emile Hirsch
+1328>Hugh Jackman
+1329>Jeff Bezos
+    >Jean-Paul
+1330Sartre
+    >Giacomo
+1331Casanova
+1332>Aaron Patzer
+    >John C.
+1333Maxwell
+1334>Muhammad Ali
+1335>Maya Angelou
+1336>Herb Caen
+1337>Jesse Helms
+1338>Maya Angelou
+1339>Al Lopez
+1340>Jonathan Swift
+1341>Felix Adler
+1342>Sabrina Bryan
+1343>David Morrell
+    >Cyrano de
+1344Bergerac
+1345>Sophia Loren
+1346>Martin O'Malley
+    >Albert
+1347Schweitzer
+    >Richard
+1348Branson
+    >Jonathan
+1349Raban
+1350>Will Arnett
+    >Sylvester
+1351Stallone
+    >Monica
+1352Bellucci
+    >Deepak
+1353Chopra
+1354>Francis Picabia
+1355>Judith Wright
+1356>Michael Cimino
+    >Sarah Michelle
+1357Gellar
+1358>Hugh Grant
+    >Bernard
+1359Baruch
+    >Arsene
+1360Wenger
+1361>Suzanne Weyn
+1362>Allan Savory
+1363>H. L. Mencken
+1364>Caroline Knapp
+1365>Stevie Wonder
+    >John F.
+1366Kennedy
+    >Sarah
+1367Bernhardt
+1368>Johnny Carson
+    >Dwight L.
+1369Moody
+1370>Dan Millman
+1371>Mother Teresa
+1372>Barbara Pym
+1373>Jean Kerr
+1374>Martha Beck
+    >W. Clement
+1375Stone
+    >L. Ron
+1376Hubbard
+1377>Rachael Ray
+1378>Jeremy Rifkin
+1379>Delia Smith
+1380>Ben Carson
+1381>Oscar Wilde
+1382>Darius Rucker
+1383>Mike White
+    >Marilyn
+1384Ferguson
+1385>Joel Fuhrman
+1386>Shakira
+1387>Sheena Easton
+    >Sidonie
+1388Gabrielle Colette
+    >Diane von
+1389Furstenberg
+1390>Meek Mill
+1391>David Chang
+1392>Eric Schlosser
+    >Jeroen
+1393Dijsselbloem
+1394>James Allen
+1395>Peter Jackson
+    >Tennessee
+1396Williams
+1397>Karen DeCrow
+    >Don Miguel
+1398Ruiz
+    >George S.
+1399Patton
+1400>Robert Dallek
+1401>John Rampton
+1402>Robert E. Lee
+1403>Henry Petroski
+    >Anthony
+1404Hopkins
+1405>Erin Gruwell
+1406>Ryan Holiday
+1407>Bill Frist
+1408>Cat Cora
+    >Nobu
+1409Matsuhisa
+1410>Simon Sinek
+1411>Ron Lewis
+1412>Tim Cope
+    >Reese
+1413Witherspoon
+1414>Will Self
+1415>Tim Tebow
+1416>David Chang
+    >Manny
+1417Pacquiao
+1418>Euripides
+    >Baltasar
+1419Gracian
+1420>William Hazlitt
+1421>Tim Howard
+    >Anushka
+1422Sharma
+1423>John Lennon
+1424>Zig Ziglar
+    >Alison
+1425Sweeney
+1426>Jerry Saltz
+1427>Robert E. Lee
+1428>Joel Osteen
+1429>Tom Brady
+1430>Fidel Castro
+    >Sydney J.
+1431Harris
+1432>A. J. McLean
+1433>John Wooden
+1434>Ina Garten
+1435>John Wooden
+    >Orison Swett
+1436Marden
+    >George
+1437Washington
+1438>Johnny Cash
+1439>Debra Messing
+    >Gisele
+1440Bundchen
+    >Mariska
+1441Hargitay
+    >Marcus
+1442Samuelsson
+1443>D. H. Lawrence
+1444>Carl Sandburg
+    >Richard
+1445Branson
+1446>John le Carre
+1447>Bo Bennett
+1448>Joe Nichols
+1449>Robert Harris
+1450>Kapil Sibal
+1451>Kevin Smith
+1452>John Boehner
+    >John W.
+1453Gardner
+    >Robert
+1454Fulghum
+1455>Billie Jean King
+    >Elisabeth
+1456Kubler-Ross
+    >Roger von
+1457Oech
+    >Randi
+1458Weingarten
+    >Henning
+1459Mankell
+1460>Jack Layton
+    >Henry David
+1461Thoreau
+1462>Ann Landers
+1463>Shiv Khera
+1464>Nate Silver
+1465>Naftali Bennett
+    >Douglas
+1466William Jerrold
+    >Stephen
+1467Hawking
+    >Neale Donald
+1468Walsch
+1469>Dick Cavett
+1470>Charles Duhigg
+1471>Dhanush
+1472>Louis C. K.
+1473>William James
+    >Thich Nhat
+1474Hanh
+1475>Babe Ruth
+    >William J.
+1476Clinton
+    >Martin
+1477Seligman
+1478>Paul Tillich
+    >William
+1479Wordsworth
+    >Bradley
+1480Whitford
+1481>Mencius
+    >Tammy
+1482Wynette
+    >Baruch
+1483Spinoza
+1484>Napoleon Hill
+1485>Stevie Wonder
+1486>Peter De Vries
+    >Jonathan
+1487Safran Foer
+1488>Jo Cox
+1489>Aaron Spelling
+    >Thomas
+1490Shadwell
+    >Albert
+1491Schweitzer
+1492>Molly Ringwald
+1493>Hugh Ross
+1494>Jay-Z
+1495>Rachael Ray
+    >Henry
+    Wadsworth
+1496Longfellow
+1497>Franz Kafka
+1498>Selena Gomez
+1499>Knute Rockne
+    >Jiddu
+1500Krishnamurti
+    >Audrey
+1501Hepburn
+1502>Lauren Conrad
+    >John
+1503Frusciante
+    >Thomas
+1504Huxley
+    >H. Jackson
+1505Brown, Jr.
+1506>Brooke Shields
+1507>Sharon Horgan
+    >W. Clement
+1508Stone
+
+1509>Tom Cochrane
+    >Sarah Orne
+1510Jewett
+1511>Pietro Aretino
+1512>Kanye West
+1513>Michael Jordan
+1514>Nick Harkaway
+1515>Danny Meyer
+1516>George Lucas
+1517>Louis Theroux
+1518>Jennifer Lopez
+1519>Oscar Wilde
+1520>Plato
+1521>Tony Fadell
+1522>Lord Byron
+1523>John Morton
+1524>Cynthia Weil
+1525>Helen Mirren
+    >Benjamin
+1526Disraeli
+    >Barbara De
+1527Angelis
+    >Robert
+1528Kiyosaki
+1529>Lloyd Dorfman
+1530>Martin Rees
+1531>Lady Gaga
+1532>Gerald Brenan
+1533>Sade Adu
+1534>C. S. Lewis
+    >John Henry
+1535Newman
+1536>Mae West
+    >Caroline
+1537Kennedy
+1538>Petrarch
+1539>Kate Winslet
+1540>Katy Perry
+    >Ruth Bader
+1541Ginsburg
+    >Thomas
+1542McGuane
+1543>Gore Vidal
+1544>Sai Baba
+    >Taraji P.
+1545Henson
+1546>Gene Robinson
+1547>Lord Byron
+1548>Caitlyn Jenner
+1549>Joyce Meyer
+1550>Mitt Romney
+1551>John Quelch
+1552>Ann Voskamp
+1553>Blake Shelton
+    >Apollonius of
+1554Tyana
+1555>Calvin Trillin
+    >Leonardo
+1556DiCaprio
+1557>Emma Bunton
+1558>Og Mandino
+    >Dee Dee
+1559Myers
+1560>Hilaire Belloc
+1561>M. Scott Peck
+1562>Graham Elliot
+1563>Al Franken
+    >Sebastian
+1564Faulks
+1565>Jeremy Irons
+    >Suzanne
+1566Somers
+1567>Bill Gates
+    >Cynthia P.
+1568Schneider
+1569>Keith Henson
+1570>Albert Barnes
+1571>Jesus Christ
+1572>Samuel Lover
+1573>Ausonius
+1574>Karrie Webb
+    >Charles
+1575Stanley
+1576>Thomas Fuller
+1577>Tracey Gold
+    >Margaret
+1578Thatcher
+1579>Rumi
+    >Francois de La
+1580Rochefoucauld
+    >George S.
+1581Patton
+    >Nelson
+1582Mandela
+    >Francois
+1583Rabelais
+    >Stephanie
+1584Tubbs Jones
+    >Albert
+1585Schweitzer
+    >Marsha
+1586Blackburn
+1587>Jared Kushner
+1588>Alice Walker
+1589>Andrew Motion
+    >Christian
+1590Nestell Bovee
+    >H. Jackson
+1591Brown, Jr.
+1592>Jean Cocteau
+1593>Steve Vai
+1594>Emile Zola
+1595>Cory Booker
+1596>Justin Chatwin
+1597>Tom Kite
+    >Charlotte
+1598Whitton
+1599>Jamie Foxx
+1600>Mike Huckabee
+    >Dennis
+1601Rodman
+    >Caroline
+1602Kennedy
+    >Daley
+1603Thompson
+1604>Tom Petty
+    >Orison Swett
+1605Marden
+1606>Doug Ducey
+    >Colonel
+1607Sanders
+1608>Will Durant
+1609>Wendell Pierce
+1610>John Wooden
+1611>Carlene Carter
+1612>Gloria Steinem
+    >Swami
+1613Sivananda
+1614>Gary Allan
+1615>Lindsey Vonn
+1616>Justin Trudeau
+1617>Vivek Wadhwa
+1618>Phillip Phillips
+1619>Henry Ford
+1620>Sophia Bush
+1621>Geri Halliwell
+1622>Jack Nicholson
+    >Ezra Taft
+1623Benson
+1624>Jack London
+1625>Kirk Douglas
+1626>Andrea Bocelli
+    >Cynthia
+1627Breazeal
+1628>Barack Obama
+    >Millicent
+1629Fawcett
+    >Abraham
+1630Maslow
+1631>Ogden Nash
+    >William Allen
+1632White
+    >Natalie
+1633Massenet
+1634>Michael Symon
+1635>Patty Berg
+1636>Joseph Roux
+1637>Liv Tyler
+    >Charles R.
+1638Swindoll
+    >Marilyn
+1639Ferguson
+1640>Dick Cavett
+1641>Alain Ducasse
+1642>Edmund Hillary
+1643>Burt Reynolds
+1644>Darlene Love
+1645>Leo Buscaglia
+1646>Beth Ditto
+    >Friedrich
+1647Nietzsche
+    >Suki
+1648Waterhouse
+1649>Ray Kurzweil
+1650>Javan
+    >Earl
+1651Nightingale
+    >Wolfgang
+    Amadeus
+1652Mozart
+1653>Yogi Berra
+    >Susan B.
+1654Anthony
+1655>Tom Cotton
+1656>George Sand
+1657>Cyril Connolly
+    >Malaika Arora
+1658Khan
+1659>Julia Child
+1660>Phyllis Theroux
+    >Harry Emerson
+1661Fosdick
+1662>John Piper
+1663>Socrates
+1664>Tori Amos
+1665>Carole King
+1666>Maria Bello
+1667>Chuck Noll
+1668>Lauren Bacall
+1669>Ian Mckellen
+1670>Brittany Snow
+    >Dutch
+1671Ruppersberger
+    >Ludwig van
+1672Beethoven
+1673>John Milius
+    >Fred
+1674Thompson
+    >Samuel
+1675Johnson
+1676>Sheri L. Dew
+
+1677>Ray Kroc
+1678>Kimbal Musk
+1679>David Bautista
+1680>Pawan Kalyan
+    >W. E. B. Du
+1681Bois
+    >Whoopi
+1682Goldberg
+1683>Dylan Moran
+1684>Steve Martin
+    >Honore de
+1685Balzac
+1686>May Sarton
+    >Gregory
+1687Bateson
+    >Natalie
+1688Massenet
+    >George
+1689Gershwin
+1690>William Hazlitt
+    >Bessie
+    Anderson
+1691Stanley
+1692>Wilma Rudolph
+1693>Josh Billings
+1694>Dale Dauten
+    >Arthur
+1695Rubinstein
+    >Mary Baker
+1696Eddy
+    >Michael
+1697Douglas
+1698>Sam Hunt
+    >Leonard
+1699Mlodinow
+1700>Charles de Lint
+1701>Jerry Hall
+1702>Dee Hock
+1703>Charles Duhigg
+    >Thomas
+1704Aquinas
+1705>Nancy Gibbs
+1706>Kayla Tausche
+1707>Naveen Jain
+1708>Marco Rubio
+1709>John Mayall
+1710>Shirley Jones
+1711>Og Mandino
+1712>Julie Klausner
+    >Mother
+1713Angelica
+1714>Elbert Hubbard
+1715>Bernie Siegel
+1716>Larry David
+1717>Hugh Jackman
+    >Henry Ward
+1718Beecher
+1719>Sam Walton
+1720>Rumi
+    >Hannah
+1721Simone
+    >Jennifer
+1722Lawrence
+1723>Cyril Connolly
+1724>Willa Cather
+    >Yotam
+1725Ottolenghi
+    >Sarah
+1726McLachlan
+    >Jesse Tyler
+1727Ferguson
+1728>Hu Jintao
+1729>H. L. Mencken
+1730>Leo Buscaglia
+
+    >Gabriel Garcia
+1731Marquez
+1732>Ray Kroc
+1733>Moliere
+1734>Bob Marley
+1735>Caroline Knapp
+1736>Mark Twain
+    >Anthony J.
+1737D'Angelo
+    >Bernard
+1738Baruch
+1739>Leo Tolstoy
+    >Rakul Preet
+1740Singh
+    >Drew
+1741Barrymore
+    >Abraham
+1742Maslow
+    >Robert J.
+1743Shiller
+1744>Stefon Harris
+1745>Sophie Kinsella
+    >Louisa May
+1746Alcott
+1747>Anatole France
+    >Thomas J.
+1748Watson
+1749>Brie Larson
+    >Abhishek
+1750Bachchan
+1751>Sandra Bullock
+1752>Toby Young
+    >Audrey
+1753Hepburn
+1754>Michael Korda
+1755>Troy Polamalu
+1756>Steve Blank
+1757>Martin O'Malley
+1758>Anna Neagle
+1759>Danica Patrick
+    >T. Boone
+1760Pickens
+1761>Mother Teresa
+    >Honore de
+1762Balzac
+1763>Claire Danes
+    >Laura Ingalls
+1764Wilder
+1765>Paula Cole
+1766>Phillips Brooks
+    >James E.
+1767Faust
+1768>Joan of Arc
+    >George
+1769Herbert
+    >Conor
+1770McGregor
+    >Friedrich
+1771Nietzsche
+1772>Edmund White
+    >Oscar
+1773Hammerstein II
+    >Hassanal
+1774Bolkiah
+1775>Rick Perlstein
+1776>T.I.
+1777>Bill Cosby
+1778>Anna Benson
+1779>Terry Pratchett
+1780>Klaus Schwab
+1781>Clint Eastwood
+    >Eustace
+1782Budgell
+1783>Ruth Reichl
+1784>Calvin Trillin
+1785>Becky G
+    >Honore de
+1786Balzac
+1787>Michael Stipe
+1788>Don Johnson
+1789>Aaron Sorkin
+1790>Eckhart Tolle
+1791>Maya Angelou
+1792>Johnny Weir
+1793>Jerry West
+    >Valerie
+1794Bertinelli
+1795>Lakshmi Mittal
+1796>Publilius Syrus
+    >Friedrich
+1797Schiller
+1798>Ben Shapiro
+    >Carl von
+1799Clausewitz
+1800>Sidney Hook
+1801>Enda Kenny
+    >Linda
+1802Fiorentino
+    >Charlie
+1803Hunnam
+    >Randy
+1804Bachman
+1805>Saint Bernard
+1806>William Blake
+1807>Tena Desae
+1808>Sophia Loren
+    >Ernest
+1809Hemingway
+    >Bertrand
+1810Russell
+1811>Sean Lennon
+1812>Lilly Singh
+    >David
+1813Duchovny
+1814>Tom Bodett
+1815>Nick Cannon
+1816>Oscar Wilde
+1817>Jim Rohn
+    >Zbigniew
+1818Brzezinski
+1819>Zig Ziglar
+1820>Khalil Gibran
+1821>Jane Austen
+    >George
+1822Foreman
+1823>Rick Astley
+    >Debbie
+1824Reynolds
+1825>George Takei
+1826>Do Won Chang
+    >Friedrich
+1827Nietzsche
+1828>Pat Buchanan
+1829>Pearl S. Buck
+    >Michelle
+1830Bachelet
+    >Henry Van
+1831Dyke
+    >William
+    Christopher
+1832Handy
+1833>Ashton Kutcher
+    >Odell
+1834Beckham, Jr.
+1835>Alec Baldwin
+1836>Plato
+    >Sydney J.
+1837Harris
+1838>Henri Nouwen
+    >Swami
+1839Sivananda
+1840>Henry Ford
+1841>Elie Wiesel
+1842>Lupita Nyong'o
+1843>Napoleon Hill
+1844>Albert Einstein
+1845>Ken Kesey
+1846>Berthe Morisot
+1847>Brooks Adams
+1848>Isaac Asimov
+1849>Barack Obama
+    >Charles Caleb
+1850Colton
+    >Randeep
+1851Hooda
+    >Elizabeth
+1852Bibesco
+1853>Satya Nadella
+1854>Ben Bernanke
+    >B. R.
+1855Ambedkar
+1856>Mary Kay Ash
+1857>Young Jeezy
+    >Andrew
+1858Sullivan
+1859>Denis Waitley
+1860>Jonathan Swift
+1861>Scott Weiss
+1862>Alton Brown
+    >William Eardley
+1863IV
+1864>Alain de Botton
+    >Harvey
+1865Fierstein
+1866>Angela Merkel
+    >Amos Bronson
+1867Alcott
+1868>Confucius
+1869>W. C. Fields
+    >Thomas J.
+1870Watson
+    >Thomas
+1871Jefferson
+1872>Pablo Picasso
+1873>Mother Teresa
+1874>Julian Castro
+1875>Joel Madden
+1876>Chanakya
+1877>John Ortberg
+    >Richard
+1878Dawkins
+1879>Brigham Young
+1880>Joey Adams
+1881>Natalie Cole
+1882>Billy Crystal
+    >Karl A.
+1883Menninger
+1884>Maria Mitchell
+    >Robert Baden-
+1885Powell
+    >Pierre Teilhard
+1886de Chardin
+1887>Barry White
+1888>Tom Holland
+1889>Selena Gomez
+1890>Gilbert Parker
+1891>Jean Paul
+1892>Mark Cuban
+1893>Rumi
+1894>Michael J. Fox
+1895>Robin Williams
+1896>Michael Mosley
+1897>Mother Teresa
+1898>Pico Iyer
+    >Padma
+1899Lakshmi
+1900>Leo Buscaglia
+    >Natalie
+1901Portman
+1902>Andrew Weil
+1903>Jakob Bohme
+1904>Bee Wilson
+    >Benjamin
+1905Franklin
+1906>Susan Choi
+    >Henry Ward
+1907Beecher
+    >Zoe Foster
+1908Blake
+    >William
+1909Cowper
+1910>Randy Forbes
+    >Nathan
+1911Myhrvold
+1912>Gary Johnson
+1913>Walt Whitman
+1914>Tobias Smollett
+    >Henry
+    Wadsworth
+1915Longfellow
+1916>Sean Duffy
+1917>Samuel Smiles
+1918>Samuel Smiles
+    >Martin
+1919Scorsese
+1920>Liu Xiaobo
+1921>Albert Einstein
+1922>Michael Pollan
+1923>Cindy Sheehan
+1924>Dan Gilbert
+    >Malcolm
+1925Mclaren
+1926>Phil Donahue
+    >Paul Craig
+1927Roberts
+1928>Arnold Palmer
+1929>Lactantius
+    >Michele
+1930Bachmann
+1931>Tina Turner
+1932>Kurt Cobain
+1933>Jean Rostand
+1934>Brenda Song
+    >Benjamin
+1935Disraeli
+    >Beyonce
+1936Knowles
+1937>Bill Medley
+    >Anne Morrow
+1938Lindbergh
+1939>J. Paul Getty
+1940>William Blake
+    >Michael
+1941Foreman
+1942>Henry Cloud
+    >N. R. Narayana
+1943Murthy
+1944>Michael Gove
+1945>John Donne
+1946>Caleb Johnson
+    >Honore de
+1947Balzac
+    >Boris
+1948Pasternak
+1949>Iyanla Vanzant
+    >Kirsten
+1950Sweetland
+    >William Lyon
+1951Phelps
+1952>Austin O'Malley
+    >Ralph Waldo
+1953Emerson
+    >James
+1954Newman
+1955>Tim Harford
+1956>Jim Carrey
+    >Edwin
+1957Markham
+1958>Neil Gaiman
+1959>Lao Tzu
+    >David
+1960Wilkerson
+1961>KSI
+1962>Doris Lessing
+1963>Brooke Shields
+1964>Mehmet Oz
+1965>Kevin O'Leary
+    >Langston
+1966Hughes
+    >Lal Bahadur
+1967Shastri
+1968>Oscar Wilde
+1969>Jim Rohn
+1970>Rob Thomas
+    >Thomas J.
+1971Watson
+    >Robert
+1972Kiyosaki
+1973>Conor Oberst
+1974>Oprah Winfrey
+1975>Bernie Siegel
+1976>Xi Jinping
+    >Abigail
+1977Spencer
+1978>Bindi Irwin
+1979>Angela Davis
+    >Bryce Dallas
+1980Howard
+1981>Rick Perry
+    >Katarina
+    Johnson-
+1982Thompson
+1983>Zane Grey
+1984>Jeb Bush
+1985>Plato
+1986>Doug Larson
+1987>Jennifer Lopez
+1988>Billy Graham
+1989>Jeremy Sisto
+1990>James Allen
+1991>Mario Batali
+1992>Drake
+1993>Andre Maurois
+1994>Sandra Lee
+1995>Carl Hagelin
+1996>Mark Caine
+    >Ashley
+1997Madekwe
+1998>Al Lopez
+1999>Angelina Jolie
+2000>Dale Turner
+2001>Mike Ditka
+2002>Greg Bear
+2003>Satya Nadella
+    >William
+2004Howard Taft
+2005>Bradley Chicho
+2006>Jeffrey Gitomer
+2007>Eliza Dushku
+
+2008>E. O. Wilson
+2009>Goldie Hawn
+2010>Confucius
+    >Thomas A.
+2011Edison
+2012>Euripides
+2013>Michael Pollan
+2014>Hill Harper
+2015>Sue Townsend
+2016>Shemar Moore
+2017>Jeff Bridges
+2018>Michael Korda
+2019>Mel Gibson
+2020>Jeffrey Kluger
+2021>Brigitte Bardot
+2022>Sloane Crosley
+    >Georg C.
+2023Lichtenberg
+    >Ralph Waldo
+2024Emerson
+    >Jennifer
+2025Aniston
+    >Shmuel Yosef
+2026Agnon
+2027>Aeschylus
+2028>Henry Rollins
+2029>Pele
+2030>Jean Cocteau
+    >Hermann
+2031Hesse
+2032>Kat Graham
+2033>Dr. Seuss
+2034>Myles Munroe
+2035>Robert Hall
+    >Charles Caleb
+2036Colton
+    >Vince
+2037Lombardi
+    >Marcus Tullius
+2038Cicero
+2039>Elbert Hubbard
+    >John W.
+2040Gardner
+    >Laurence D.
+2041Fink
+2042>Steve Carell
+2043>Anne Campbell
+2044>Jim Rohn
+    >Dwight D.
+2045Eisenhower
+    >Maria
+2046Montessori
+    >Arnold H.
+2047Glasow
+    >Paul Craig
+2048Roberts
+    >Dwayne
+2049Johnson
+2050>Sophia Loren
+    >T. Boone
+2051Pickens
+2052>Angelina Jolie
+2053>Hart Crane
+    >Munshi
+2054Premchand
+2055>Henry Rollins
+    >Marcus Tullius
+2056Cicero
+2057>Elbert Hubbard
+2058>Alain Ducasse
+    >Neil Patrick
+2059Harris
+2060>Henry Petroski
+    >Lindsey
+    Buckingham
+2061
+2062>Lee Atwater
+2063>Lord Byron
+2064>Marcelene Cox
+    >Richard P.
+2065Feynman
+2066>Og Mandino
+    >Oliver Wendell
+2067Holmes, Sr.
+    >Anthony
+2068Hopkins
+    >Suzanne
+2069Somers
+2070>Kenny Loggins
+2071>Mary Berry
+    >Napoleon
+2072Bonaparte
+    >Peter
+2073Diamandis
+2074>Joe Bastianich
+2075>Jonathan Ive
+2076>Billy Graham
+2077>Ali Larter
+2078>H. Rap Brown
+    >Alan
+2079Greenspan
+    >George
+2080Bernard Shaw
+    >Michelle
+2081Obama
+2082>Sofia Milos
+2083>Jamie Oliver
+2084>Jeff Lemire
+2085>St. Jerome
+2086>Paul Bryant
+2087>Richard Bach
+2088>Isaac Watts
+2089>Louise Fresco
+    >Andie
+2090MacDowell
+2091>William Hazlitt
+2092>Malcolm X
+2093>Ryan Holiday
+2094>Gilbert Parker
+    >Justin
+2095Zackham
+    >Marcia Gay
+2096Harden
+2097>Roger Federer
+2098>Anna Quindlen
+2099>Seth Shostak
+2100>Isaac Asimov
+    >John James
+2101Audubon
+2102>Anna Pavlova
+2103>Heidi Roizen
+2104>Lydia Millet
+2105>Peter Abelard
+    >Ernest
+2106Hemingway
+2107>The Weeknd
+2108>John McEnroe
+    >Karl Wilhelm
+    Friedrich
+2109Schlegel
+    >Benjamin
+2110Disraeli
+    >Henry Ward
+2111Beecher
+2112>Ziggy Marley
+2113>Peter Conrad
+    >Harry Connick,
+2114Jr.
+2115>Paulo Coelho
+
+2116>Ruth Glick
+2117>Ray Bradbury
+2118>A. J. Liebling
+2119>Lionel Messi
+2120>Whit Stillman
+2121>Joyce Meyer
+    >George
+    Edward
+2122Woodberry
+    >W. Clement
+2123Stone
+2124>Daniel Defoe
+2125>Jamie Oliver
+    >Marina
+2126Abramovic
+    >Henry David
+2127Thoreau
+2128>Rochelle Aytes
+2129>Khalil Gibran
+2130>Matt Cameron
+    >John C.
+2131Calhoun
+2132>Dick Van Dyke
+2133>Bob Hoskins
+2134>Tony DiTerlizzi
+    >Christopher
+2135Dodd
+2136>Joseph Roux
+    >Edward G.
+2137Bulwer-Lytton
+2138>Dean Koontz
+    >Morgan
+2139Fairchild
+2140>Marine Le Pen
+2141>Stephen Covey
+    >Morgan
+2142Freeman
+2143>Jon Favreau
+    >Elizabeth
+    Kapu'uwailani
+2144Lindsey
+2145>David Sarnoff
+    >George Jean
+2146Nathan
+2147>Jodie Foster
+2148>Napoleon Hill
+    >Douglas
+2149Rushkoff
+2150>Ernest Holmes
+2151>Ciara
+2152>Justin Welby
+2153>Joel Osteen
+    >Luke
+2154Macfarlane
+2155>Hillary Clinton
+    >Octavia
+2156Spencer
+2157>Alex Berenson
+    >Olympia
+2158Snowe
+2159>Rachel Nichols
+2160>Zach Anner
+    >Jillian Rose
+2161Banks
+    >Noureen
+2162DeWulf
+2163>Epicurus
+2164>Rachael Ray
+    >George
+2165Whitefield
+2166>George Eliot
+2167>Michio Kaku
+2168>Donald Knuth
+2169>Mortimer Adler
+
+2170>Sylvia Browne
+2171>Emma Watson
+2172>Bill Berry
+    >William
+2173Feather
+2174>Anupam Kher
+2175>Rand Paul
+    >Cynthia
+2176Kenyon
+2177>Mark Twain
+2178>Julia Child
+2179>T. Harv Eker
+    >Mahatma
+2180Gandhi
+2181>Steve Jobs
+2182>Nargis Fakhri
+2183>Albert Einstein
+2184>Brian O'Driscoll
+2185>Dale Carnegie
+2186>Brie Larson
+    >Stephen
+2187Gardiner
+    >Theophile
+2188Gautier
+2189>Ted Turner
+2190>Marilu Henner
+    >Charles
+2191Lindbergh
+2192>Jimmy Carter
+2193>Keegan Allen
+    >Tammy
+2194Wynette
+    >Henry Van
+2195Dyke
+2196>Evan Davis
+2197>Bryan Batt
+2198>Jonathan Haidt
+2199>David Dinkins
+2200>Felix Dennis
+2201>Martha Stewart
+2202>Conor Oberst
+2203>Havelock Ellis
+    >Elizabeth
+2204Warren
+2205>Pierre Dukan
+2206>Mark Skousen
+2207>Jonathan Kozol
+    >Francois de La
+2208Rochefoucauld
+2209>Annie Lennox
+2210>Marilyn Monroe
+2211>Samuel Smiles
+    >Mireille
+2212Guiliano
+2213>Sasha Cohen
+2214>Suze Orman
+    >Gates
+2215McFadden
+    >Benjamin
+2216Franklin
+2217>Boy George
+2218>Sam Hunt
+2219>Unknown
+    >Marcus Tullius
+2220Cicero
+    >Neil Patrick
+2221Harris
+2222>Mao Zedong
+2223>Gordon Brown
+    >Rainer Maria
+2224Rilke
+    >Andrew Ross
+2225Sorkin
+2226>Alec Baldwin
+2227>Seth Shostak
+2228>Gerard Way
+    >Jean de La
+2229Fontaine
+    >Nicholas
+2230Negroponte
+2231>Daniel H. Pink
+    >Shailene
+2232Woodley
+    >Queen Rania
+2233of Jordan
+2234>Nate Silver
+2235>Missy Elliott
+2236>David Byrne
+    >Michael Eric
+2237Dyson
+    >Stephen
+2238Colbert
+    >Esperanza
+2239Spalding
+2240>Denis Waitley
+2241>Grace Gealey
+    >Honore de
+2242Balzac
+    >Robert Louis
+2243Stevenson
+2244>Jessye Norman
+2245>Robert Fripp
+    >Reese
+2246Witherspoon
+2247>Oscar Wilde
+2248>Paul Johnson
+2249>Cindy Morgan
+    >Kaui Hart
+2250Hemmings
+2251>Peter Marshall
+2252>Leo Tolstoy
+2253>Raquel Welch
+2254>Bill Gates
+2255>Alice Paul
+    >Humphrey
+2256Carpenter
+2257>Helen Rowland
+    >Eleanor
+2258Roosevelt
+    >Henry Ward
+2259Beecher
+2260>Plautus
+2261>Erma Bombeck
+2262>George Jessel
+2263>Socrates
+2264>Fran Lebowitz
+2265>Simon Sinek
+    >Avigdor
+2266Lieberman
+2267>Lao Tzu
+    >H. Jackson
+2268Brown, Jr.
+2269>Sophia Bush
+    >Andrew J.
+2270Bernstein
+    >Thomas A.
+2271Edison
+2272>Steve Jobs
+    >Gary Ryan
+2273Blair
+    >Lisa Marie
+2274Presley
+2275>Megan Fox
+2276>Carol Alt
+2277>Gary Herbert
+2278>Sting
+    >Charles
+2279Morgan
+    >Harriet
+2280Beecher Stowe
+2281>Quentin Crisp
+2282>Eddie Cantor
+2283>Anita Ekberg
+2284>Dawn French
+2285>Rachel Nichols
+    >Thomas a
+2286Kempis
+    >Wolfgang
+    Amadeus
+2287Mozart
+2288>Simon Cowell
+2289>Oriana Fallaci
+    >Alfred North
+2290Whitehead
+    >Francis of
+2291Assisi
+2292>Elbert Hubbard
+2293>Leo Buscaglia
+2294>Victor Hugo
+    >Amy
+2295Winehouse
+2296>Ben Peek
+2297>Eminem
+2298>Mike Birbiglia
+2299>Roxane Gay
+2300>Will Smith
+2301>Drew Houston
+2302>Isla Fisher
+    >Solange
+2303Knowles
+    >Bobbie Ann
+2304Mason
+2305>Brian Tracy
+2306>Keke Palmer
+2307>Samuel Smiles
+2308>Monica Seles
+    >Patrick
+2309Kavanagh
+    >Conor
+2310McGregor
+    >Drew
+2311Barrymore
+2312>Tom DeLonge
+    >Michel de
+2313Montaigne
+    >Rabindranath
+2314Tagore
+2315>John Cheever
+2316>H. L. Mencken
+2317>Zig Ziglar
+2318>Uday Kiran
+    >Woody
+2319Harrelson
+    >Honore de
+2320Balzac
+2321>Bob Newhart
+2322>Lucretius
+2323>Sidney Lanier
+    >Christopher
+2324Knight
+    >Mother
+2325Angelica
+    >Desiderius
+2326Erasmus
+    >Malcolm
+2327Mclaren
+    >Thomas
+2328Merton
+    >Christopher
+2329Morley
+2330>William James
+2331>Adam Braun
+    >Justine
+2332Larbalestier
+2333>Lynn Good
+2334>W. H. Auden
+2335>Aesop
+2336>Neil Gaiman
+2337>Joseph Joubert
+2338>Ron Chernow
+2339>Mary Archer
+    >Leonardo da
+2340Vinci
+2341>Gloria Steinem
+2342>Ben Shapiro
+2343>Paul Valery
+2344>Amal Clooney
+    >Michelle
+2345Obama
+2346>Eric Alterman
+    >Matthew
+2347McConaughey
+2348>Gavin Hood
+2349>Lydia M. Child
+    >Natalie
+2350Portman
+2351>Bob Marley
+2352>Naveen Jain
+2353>Ian Dunbar
+2354>Jennifer Ellison
+2355>Juhi Chawla
+    >Frederick
+    William
+2356Robertson
+2357>Rand Paul
+2358>Ted Allen
+2359>Oscar Wilde
+2360>Mary Berry
+2361>Ken Venturi
+2362>Brian Tracy
+2363>Terry Pratchett
+2364>Mark Twain
+    >Alexandre
+2365Dumas
+    >William
+2366Feather
+2367>Woody Hayes
+2368>David Nicholls
+2369>Henry J. Heinz
+    >James Cash
+2370Penney
+    >Jenna
+2371McCarthy
+2372>Elena Kagan
+2373>Tom Robbins
+2374>Charles Peguy
+    >Samuel Taylor
+2375Coleridge
+    >Samuel
+2376Johnson
+2377>Jerry Brown
+2378>Pietro Aretino
+    >Sarah
+2379McLachlan
+2380>Ginger Rogers
+    >Stanley
+2381Hauerwas
+    >Edward
+2382Whitacre, Jr.
+2383>Henry Ford
+    >Madonna
+2384Ciccone
+    >Michelle
+2385Bachelet
+    >Mark
+2386Frauenfelder
+2387>Jane Campion
+2388>Steve Jobs
+2389>Ravi Zacharias
+2390>Joe Jamail
+    >Johann
+    Wolfgang von
+2391Goethe
+    >Joseph
+2392Campbell
+2393>Daisaku Ikeda
+    >Henry David
+2394Thoreau
+2395>Karen Horney
+2396>George Sand
+    >William
+2397Shakespeare
+2398>Socrates
+    >Mstislav
+2399Rostropovich
+2400>Ann Landers
+2401>Jeff Sessions
+2402>John Ortberg
+2403>Lou Holtz
+    >Pierre Teilhard
+2404de Chardin
+2405>Samuel Smiles
+2406>Wilbur Wright
+    >George Allen,
+2407Sr.
+2408>Lao Tzu
+2409>Taylor Swift
+2410>Paulo Coelho
+2411>Walter Elliot
+    >H. Jackson
+2412Brown, Jr.
+    >Nicholas
+2413Kristof
+2414>John Grant
+    >Kendrick
+2415Lamar
+    >Joseph
+2416Addison
+    >Harry Connick,
+2417Jr.
+2418>John Cleese
+2419>Steve Wynn
+2420>Davy Crockett
+2421>Ron White
+2422>Richard Lamm
+2423>Jill Scott
+    >Norman
+2424Borlaug
+    >Grover
+2425Norquist
+    >Robert Louis
+2426Stevenson
+2427>David R. Ellis
+2428>Robin Morgan
+    >Lucius
+    Annaeus
+2429Seneca
+    >Audrey
+2430Hepburn
+2431>Zig Ziglar
+2432>Philip Treacy
+2433>Brie Larson
+    >Salman
+2434Rushdie
+2435>Sam Levenson
+    >Thomas
+2436Merton
+    >Harvey
+2437Weinstein
+2438>Kate Winslet
+2439>Zadie Smith
+2440>Guy Laliberte
+2441>Elon Musk
+    >Yotam
+2442Ottolenghi
+2443>David Malpass
+2444>Ted Cruz
+2445>Ariana Grande
+    >Chesley
+2446Sullenberger
+    >Mikhail
+2447Lermontov
+    >Leonardo da
+2448Vinci
+2449>Timothy Leary
+2450>Helen Rowland
+    >Elisabeth
+2451Kubler-Ross
+    >Martin H.
+2452Fischer
+    >James A.
+2453Garfield
+2454>Julie Andrews
+2455>Steven Pinker
+2456>Joel Osteen
+    >William
+    Tecumseh
+2457Sherman
+    >Jackie
+2458Kennedy
+2459>Michael Jordan
+2460>James Altucher
+    >William
+    Christopher
+2461Handy
+    >Richard
+2462Branson
+2463>Mark Skousen
+2464>Anna Held
+2465>Kygo
+2466>John Updike
+    >Booker T.
+2467Washington
+2468>Jane Fonda
+2469>Scott Weiss
+2470>John Ciardi
+    >Benjamin
+2471Franklin
+    >Solange
+2472Knowles
+2473>Naveen Jain
+2474>Bette Davis
+2475>Calvin Trillin
+    >Alfred North
+2476Whitehead
+    >George
+2477Santayana
+2478>Jaron Lanier
+2479>Oprah Winfrey
+2480>Amy Tan
+2481>Eric Hoffer
+    >H. Jackson
+2482Brown, Jr.
+2483>Virgil
+2484>David Merrick
+2485>Jeff Nichols
+2486>Cesar Chavez
+    >Marilyn
+2487Ferguson
+2488>Art Donovan
+    >Garret
+2489Dillahunt
+    >Michael
+2490Crichton
+    >Andrew Ross
+    Sorkin
+2491
+2492>Ricky Martin
+2493>Karan Mahajan
+2494>Nolan Bushnell
+2495>Diane Lane
+2496>Henry Cavill
+    >Jackie
+2497Kennedy
+    >John
+2498O'Donohue
+    >Leonardo
+2499DiCaprio
+    >Lisa Marie
+2500Presley
+2501>Steve Jobs
+2502>P. J. O'Rourke
+    >Michael
+2503Bergdahl
+2504>Joel Edgerton
+2505>Warren Bennis
+2506>Aly Raisman
+2507>Earl Wilson
+2508>Isaac Mizrahi
+    >Maria
+2509Montessori
+    >Sarah Jessica
+2510Parker
+2511>Claire Danes
+2512>Aeschylus
+2513>Andrew Shue
+2514>Julian Baggini
+2515>Debra Winger
+    >Gordon B.
+2516Hinckley
+2517>Emma Watson
+    >Calvin
+2518Coolidge
+2519>Robin Quivers
+2520>Mark Cuban
+2521>Leo Strauss
+2522>Rumi
+2523>Regina Hall
+2524>Kinky Friedman
+    >Ludwig
+2525Wittgenstein
+    >Jean de La
+2526Fontaine
+2527>Alia Bhatt
+    >Oliver E.
+2528Williamson
+    >Eamon de
+2529Valera
+2530>Albert Einstein
+2531>Boethius
+2532>Peter Berg
+2533>Bill Cosby
+2534>Alan King
+    >Chuck
+2535Palahniuk
+2536>David Russell
+2537>James Comey
+    >Drew
+2538Barrymore
+    >Audrey
+2539Hepburn
+2540>Iyanla Vanzant
+2541>John Wooden
+    >John C.
+2542Maxwell
+2543>Scott Adams
+2544>Camille Paglia
+    >Martin Luther
+2545King, Jr.
+    >Norman
+    Maclean
+2546
+    >Kendrick
+2547Lamar
+    >Anthony
+2548Michael Hall
+    >Ezra Taft
+2549Benson
+2550>Lou Holtz
+    >Sholom
+2551Aleichem
+    >Ambrose
+2552Bierce
+2553>Neal Barnard
+    >Dreama
+2554Walker
+2555>Gustav Mahler
+    >Henry Walter
+2556Bates
+2557>Ross Mathews
+    >Theodore
+2558Roosevelt
+2559>Andy Warhol
+    >Douglas
+2560Conant
+
